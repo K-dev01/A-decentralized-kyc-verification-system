@@ -293,5 +293,3 @@ src/blockchain/contract.js
 Backend Developer – KYC Blockchain System
 
 ---
-
-This completes **Level 1 backend deliverable**.
