@@ -64,7 +64,7 @@ Make sure you have:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/K-dev01/A-decentralized-kyc-verification-system>
 cd kyc-backend
 ```
 
